@@ -51,7 +51,7 @@ npm run dev
 
 ## Tech Stack
 
-- Next.js 13+ with App Router
+- Next.js 15.1 with App Router
 - TypeScript
 - Tailwind CSS
 - D3.js for visualizations
